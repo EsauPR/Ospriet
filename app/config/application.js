@@ -22,21 +22,21 @@ module.exports = {
 
   /* Application configuration */
   twitter_app: {
-      consumer_key:         ''
-    , consumer_secret:      ''
-    , access_token_key:     ''
-    , access_token_secret:  ''
+      consumer_key:         'uymIadowXuMHniuIoQB1hMYJs'
+    , consumer_secret:      '8JksFf4kLVY44DaIZRhZdcE6v4nNthQEM1JlTahpggzSOkw1zw'
+    , access_token_key:     '708098440283049984-RaNQZyXjDzoNt5HmMlsVvAfmtZvwNV7'
+    , access_token_secret:  'qFveaYt2HkFl3grFzKFt7JL1Y9dnSRWgX2si39xCgzW9V'
   }
 
   , twitter_account: {
-      id:           '495336570'
-    , screen_name:  'dftg'
+      id:           '708098440283049984'
+    , screen_name:  'EsauOpr'
   }
 
   , moderators: [
     {
-      id_str: '18644328'
-    , screen_name: 'philcoffman'
+      //id_str: '708098440283049984'
+    //, screen_name: 'EsauOpr'
     }
   ]
 

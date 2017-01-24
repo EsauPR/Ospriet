@@ -6,16 +6,17 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "colors": "*",
+    "express": ">=2.5.0 <2.9.9",
+    "hogan.js": "*",
+    "klass": "*",
+    "matador": "<=0.0.14",
     "mongodb": "0.9.6-23",
     "mongoose": "2.5.6",
-    "ntwitter": "0.2.10",
-    "socket.io": "0.8.7",
-    "express": ">=2.5.0 <2.9.9",
-    "valentine": "1.5.4",
-    "klass": "*",
-    "colors": "*",
-    "hogan.js": "*",
-    "matador": "<=0.0.14"
+    "ntwitter": "0.5.0",
+    "socket.io": "1.7.2",
+    "twitter": "^1.7.0",
+    "valentine": "1.5.4"
   },
   "domains": [
     "designfromthegut.com"
@@ -25,8 +26,9 @@
     "start": "server.js"
   },
   "licenses": [
-    { "type": "Apache-2.0"
-      , "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
     }
   ]
 }
