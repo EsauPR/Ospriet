@@ -57,7 +57,7 @@ module.exports = {
   , event: {
       title:        'Design from the Gut'
     , description:  'Debating whether research or intuition is a better approach to design should be a communal discussion.'
-    , instructions: '<strong>Submit a question or comment by posting a tweet to <a href="https://twitter.com/intent/user?screen_name=dftg" title="Design from the Gut on Twitter">@dftg</a> via the button below. Review the submissions and favorite the ones you\'d like to see answered</strong>. The moderator will choose from the top picks.'
+    , instructions: '<strong>Submit a question or comment by posting a tweet to <a href="https://twitter.com/intent/user?screen_name=EsauOpr" title="Design from the Gut on Twitter">@dftg</a> via the button below. Review the submissions and favorite the ones you\'d like to see answered</strong>. The moderator will choose from the top picks.'
     , time:         'Friday, 3/9, 3:30p'
     , location:     'Ballroom BC &bull; ACC'
     , details_url:  'http://schedule.sxsw.com/2012/events/event_IAP11592'
